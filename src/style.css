@@ -74,6 +74,9 @@ body {
 .hr-section {
 
 	width: 50px;
+	height: 5px;
+	background: linear-gradient(to right, black 0%, black 50%, orange 50%, orange 100%);
+	border: none;
 	margin-left: 0px;
 
 }
@@ -121,5 +124,11 @@ body {
 .page-link:hover {
 
 	color: black;
+
+}
+
+.section-header {
+
+	margin-bottom: 5px;
 
 }
