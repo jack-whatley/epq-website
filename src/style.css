@@ -17,6 +17,13 @@ body {
 
 }
 
+.text-element, .intro-text {
+
+	text-align: justify;
+	text-justify: inter-word;
+
+}
+
 .page-element {
 
 	width: 1240px;
